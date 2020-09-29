@@ -1,10 +1,10 @@
 ### Описание
 Для компиляции ввести:
 
-<code>g++ -o programm main.cpp<code>
+'g++ -o programm main.cpp'
 
 Для запуска ввести название программы, плюс аргумент - текст:
 
-<strong><em>Linux</em></strong>
+__*Linux:*__
 
-<code>./programm "текст"<code>
+'./programm "текст"'
